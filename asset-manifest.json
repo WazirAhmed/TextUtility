@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tectutility/static/css/main.073c9b0a.css",
+    "main.js": "/tectutility/static/js/main.46a01fea.js",
+    "static/js/787.a4bc1b95.chunk.js": "/tectutility/static/js/787.a4bc1b95.chunk.js",
+    "index.html": "/tectutility/index.html",
+    "main.073c9b0a.css.map": "/tectutility/static/css/main.073c9b0a.css.map",
+    "main.46a01fea.js.map": "/tectutility/static/js/main.46a01fea.js.map",
+    "787.a4bc1b95.chunk.js.map": "/tectutility/static/js/787.a4bc1b95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.46a01fea.js"
+  ]
+}
